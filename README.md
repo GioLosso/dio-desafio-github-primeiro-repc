@@ -1,5 +1,2 @@
-# Desafio de projeto sobre Git/Github da DIO
- Repositório criado para o Desafio de Projeto.
-
-## Links Úteis
-[Sintaxe Basica Markdown](https://www.markdownguide.org/sintaxe-basica/)
+Desafio de Recriação de Perfil no Instagram - O formato não é igual ao verdadeiro site, e sim algo criado de minhas idéias.
+O propósito é explorar algumas ferramentas do Flex Box. 
